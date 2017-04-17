@@ -1,0 +1,28 @@
+div.header {
+   text-align:center; 
+   background-color: #dffff0; 
+   margin: 1px auto; 
+   border: solid 1px #909090; 
+   font-family: verdana, sans-serif; 
+   font-size: 100%;
+   padding: 4px;
+}
+
+div.contents {
+   background-color: #f4ffed; 
+   margin: 4px auto; 
+   border: solid 1px #909090; 
+   font-family: Arial, Verdana, Helvetica, sans-serif;
+   font-size: 90%;
+   padding: 10px;
+}
+
+div.footer {
+   text-align:center; 
+   background-color: #dffff0; 
+   margin: 1px auto; 
+   border: solid 1px #909090; 
+   font-family: verdana, sans-serif; 
+   font-size: 90%;
+   padding: 1px;
+}

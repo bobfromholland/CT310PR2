@@ -1,0 +1,64 @@
+@CHARSET "UTF-8";
+
+.jumbotron {
+
+    background-image: url("../images/header2.png");
+    background-position: center;
+    background-size: 120%;
+	margin-bottom: 0px;
+    text-align: center;
+    color: white;
+}
+
+.page-header {
+	border-bottom: 0px;
+}
+
+.list-group {
+	margin-bottom: 0px;
+}
+
+.links
+{
+    list-style-position: inside;
+    background: rgba( 255, 238, 196, .7);
+    padding: 5, 5, 5, 15;
+    margin: 5, 0, 5, 0;
+}
+.bodyCenter
+{
+    background: white;
+    color: #444444;
+}
+.document
+{
+    background:white;
+    font-family: georgia;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+/*     opacity: 0.5; */
+}
+.h2
+{
+    size: 18pt;
+    color: #444444;
+}
+.bodyCenter p
+{
+    padding: 5, 5, 5, 15;
+    margin: 5, 0, 5, 5;
+    text-align: left;   
+}
+footer
+{
+    float: bottom;
+    clear: both;
+}
+.ingr
+{
+    padding-bottom: 15px;
+    max-width:350px;
+    max-height:350px;
+}
